@@ -8,3 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+# OS-generated files
+.DS_Store
+
+# Logs
+logs/
+
+# Editor-specific
+.vscode/
+
+# dbt secrets/local state
+azure_dbt_snowflake_project/profiles.yml
+azure_dbt_snowflake_project/.user.yml
