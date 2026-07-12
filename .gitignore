@@ -21,3 +21,7 @@ logs/
 # dbt secrets/local state
 azure_dbt_snowflake_project/profiles.yml
 azure_dbt_snowflake_project/.user.yml
+
+# dbt build artifacts
+target/
+dbt_packages/
