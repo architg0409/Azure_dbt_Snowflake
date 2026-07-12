@@ -99,4 +99,4 @@ dbt snapshot
 
 ---
 
-**Note:** In the age of AI-assisted coding, it's worth stating plainly — every line of code in this project was written by hand by **[Archit Gupta](https://github.com/architg0409)**, with the sole exception of this README file.
+**Note:** In the age of AI-assisted coding, it's worth stating plainly — every line of code in this project was written by **[Archit Gupta](https://github.com/architg0409)**, with the sole exception of this README file.
